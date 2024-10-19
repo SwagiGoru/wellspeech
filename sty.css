@@ -1,0 +1,11 @@
+/* Add your styles for the WhatsApp button here */
+.whatsapp-button {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+
+.whatsapp-button a img {
+    width: 55px; /* Adjust the size as needed */
+    height: auto;
+}
